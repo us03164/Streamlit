@@ -4,9 +4,4 @@ langchain-openai
 tiktoken
 python-dotenv
 bs4
-os
-re
-datetime
-urllib.parse
 requests
-load_dotenv
